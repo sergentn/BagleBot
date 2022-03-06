@@ -1,0 +1,15 @@
+{
+  "name": "bagle-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for playing a well known word game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergentn",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
